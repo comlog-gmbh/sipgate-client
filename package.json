@@ -1,6 +1,6 @@
 {
   "name": "sipgate-client",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Sipgate REST API Client",
   "main": "index.js",
   "repository": {
@@ -8,23 +8,12 @@
     "url": "git://github.com/sja/sipgate-client.git"
   },
   "keywords": [
-    "sipgate"
+    "sipgate",
+    "sms"
   ],
-  "author": "Sebastian Janzen <sebastian@janzen.it>",
+  "author": "Sebastian Janzen <sebastian@janzen.it>, COMLOG GmbH",
   "license": "GPL-v2",
   "bugs": {
-    "url": "https://github.com/sja/sipgate-client/issues"
-  },
-  "scripts": {
-    "test": "mocha --compilers coffee:coffee-script"
-  },
-  "dependencies": {
-    "coffee-script": "~1.6.3",
-    "node-rest-client": "~0.7.0"
-  },
-  "devDependencies": {
-    "coffee-script": "~1.6.3",
-    "mocha": "~1.14.0",
-    "expect.js": "~0.2.0"
+    "url": "https://github.com/comlog-gmbh/sipgate-client/issues"
   }
 }
