@@ -15,5 +15,9 @@
   "license": "GPL-v2",
   "bugs": {
     "url": "https://github.com/comlog-gmbh/sipgate-client/issues"
+  },
+  "dependencies": {
+    "q": "^1.5.1",
+    "xmlrpc": "^1.3.2"
   }
 }
