@@ -1,6 +1,6 @@
 var Q, Sipgate, errorLogger, sg, successLogger, user, util;
 
-Sipgate = require('./lib/sipgate');
+Sipgate = require('./lib/sipgate.js');
 
 util = require('util');
 
